@@ -1,2 +1,1 @@
-# a21.ai
-github mcp 
+# a21.ai test repo
