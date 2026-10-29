@@ -1,6 +1,6 @@
 """Small calculator module — added to test GitHub MCP tools against real code."""
 
-
+# Test Code Guardian webhook
 def add(a, b):
     """Return the sum of two numbers."""
     return a + b
